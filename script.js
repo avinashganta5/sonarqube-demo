@@ -1,6 +1,3 @@
-
-// var tasks = [];
-
 function addTask() {
     var input = document.getElementById("taskInput");
     var task = input.value.trim();
