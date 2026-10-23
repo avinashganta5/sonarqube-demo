@@ -1,5 +1,5 @@
 
-var tasks = [];
+// var tasks = [];
 
 function addTask() {
     var input = document.getElementById("taskInput");
